@@ -1,24 +1,6 @@
-# README
+# How to start rails with kubernetes
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## install edge version of dokcer for mac
+https://store.docker.com/editions/community/docker-ce-desktop-mac
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+*warning* If there were any container on your docker, all contaners will be removed when you installed edge version of docker.
